@@ -1,3 +1,9 @@
 Positive count=25000
 Negative count=25000
-Total unique words = 38301
+Total unique words = 102098
+negative count in all lines in the file=25363
+Positive count in all lines in the file=25665
+Total unique words2 = 104100
+Total unique words3 = 106166
+Total unique words4 = 132220
+Total unique words5 = 134330
